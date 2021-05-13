@@ -1,5 +1,5 @@
 # lambda_and_streams
-Simple Initilization classes and some tasks with answers which are accompanying a presentation for vocational school. This repo is the example solution which was used after my classmates got a chance to try to solve the tasks.
+Simple initilization classes and some tasks with answers which are accompanying a presentation for vocational school. This repo is the example solution which was used after my classmates got a chance to try to solve the tasks.
 
 Strings and comments are in german, the comments mostly contain the task or an explanation abolut the answer.
 
